@@ -1,4 +1,4 @@
-### Hello world, I'm Avinash  👋 
+### Hello world, I'm Harish  👋 
 
 -----
 
@@ -12,21 +12,20 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm an undergraduate student persuing BTech IT degree. I enjoy collaborating with people on works of similar interest.
 
-🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions.\
+🌱 &nbsp;I'm on track to build network with similar tech minds and learn from their expertise , resources and guidance.\
+✍️ &nbsp;Apart from technical interests, I like watching movies, playing Chess and badminton and communication related activities.\
+💬 &nbsp;Feel free to give suggetions and adivise or tech discussions.\
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
 ### 📫 &nbsp; How to reach me:
 
 
 
-<a href="edit here"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/harish-shinde-7368a0321"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:harishshinde865@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 -----  
 
